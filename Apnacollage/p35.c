@@ -1,3 +1,4 @@
+//check a program to check is the array is palindrone or not 
 #include<stdio.h>
 int main(){
     int arr[5];
